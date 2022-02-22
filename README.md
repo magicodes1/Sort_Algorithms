@@ -1,5 +1,5 @@
 # Sort_Algorithms
-Thease are 9 sort algorithms that i have learn.
+Thease are 9 sort algorithms that i have learned.
 1) Selection Sort
 2) Insert Sort
 3) Bubble Sort
